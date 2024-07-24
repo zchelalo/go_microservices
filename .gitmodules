@@ -4,3 +4,12 @@
 [submodule "go_microservices_meta"]
 	path = go_microservices_meta
 	url = git@github.com:zchelalo/go_microservices_meta.git
+[submodule "go_microservices_user"]
+	path = go_microservices_user
+	url = git@github.com:zchelalo/go_microservices_user.git
+[submodule "go_microservices_course"]
+	path = go_microservices_course
+	url = git@github.com:zchelalo/go_microservices_course.git
+[submodule "go_microservices_enrollment"]
+	path = go_microservices_enrollment
+	url = git@github.com:zchelalo/go_microservices_enrollment.git
