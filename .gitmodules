@@ -1,0 +1,3 @@
+[submodule "go_microservices_domain"]
+	path = go_microservices_domain
+	url = git@github.com:zchelalo/go_microservices_domain.git
