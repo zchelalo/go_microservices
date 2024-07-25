@@ -13,3 +13,6 @@
 [submodule "go_microservices_enrollment"]
 	path = go_microservices_enrollment
 	url = git@github.com:zchelalo/go_microservices_enrollment.git
+[submodule "go_microservices_response"]
+	path = go_microservices_response
+	url = git@github.com:zchelalo/go_microservices_response.git
