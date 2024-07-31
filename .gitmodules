@@ -16,3 +16,6 @@
 [submodule "go_microservices_response"]
 	path = go_microservices_response
 	url = git@github.com:zchelalo/go_microservices_response.git
+[submodule "go_microservices_user_sdk"]
+	path = go_microservices_user_sdk
+	url = git@github.com:zchelalo/go_microservices_user_sdk
