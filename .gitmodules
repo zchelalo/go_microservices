@@ -19,3 +19,6 @@
 [submodule "go_microservices_user_sdk"]
 	path = go_microservices_user_sdk
 	url = git@github.com:zchelalo/go_microservices_user_sdk
+[submodule "go_microservices_course_sdk"]
+	path = go_microservices_course_sdk
+	url = git@github.com:zchelalo/go_microservices_course_sdk
